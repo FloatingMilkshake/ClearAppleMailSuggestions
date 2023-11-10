@@ -1,0 +1,21 @@
+﻿{
+    "dsId": "APPLE_ID_DSID",
+    "recipients": [
+        {
+            "recentId": "MR_XXXX",
+            "sender": "xxx@email.tld",
+            "senderApp": "com.apple.mobilemail",
+            "sentTimes": [
+                -1,
+                -1,
+                -1
+            ],
+            "recipients": [
+                {
+                    "recipientEmail": "xxx@email.tld",
+                    "recipientName": "xxx"
+                }
+            ]
+        },
+    ]
+}
